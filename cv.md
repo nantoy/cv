@@ -57,7 +57,12 @@ Juillet - Septembre 215  : Syrielle (Paris) **3 mois** développeur Web
 * Photographie
 * Veille technologique
 * Music 
+<<<<<<< HEAD
 * sport
+=======
+* sports
+op
+>>>>>>> 30f4bac5e85b66b67b99cb1ecbba76ff9d2f8abe
 
 
 
