@@ -3,7 +3,7 @@
 ###### Tel : 0783256558 
 ###### Portfolio : [nantoyalladum.fr](nantoyalladoum.fr)
 
-#### DEVELOPPEUR WEB
+#### DEVELOPPEUR __WEB__
 
 #### Competences
 ##### Langages
