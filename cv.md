@@ -61,8 +61,12 @@ Juillet - Septembre 215  : Syrielle (Paris) **3 mois** développeur Web
 * sport
 =======
 * sports
+<<<<<<< HEAD
 op
 >>>>>>> 30f4bac5e85b66b67b99cb1ecbba76ff9d2f8abe
+=======
+
+>>>>>>> f66959be70da24791085131bb9389cfd55b962d1
 
 
 
